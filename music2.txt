@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This is a music.hh.
-=======
-This is a music,hh.
->>>>>>> 2c9bc9e840aeee4aeae48f8a40097301b8bfebc0
+
+This is a music.
+
