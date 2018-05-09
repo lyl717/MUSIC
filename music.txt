@@ -3,3 +3,9 @@ This is a word.hh.
 =======
 This is a word,hh.
 >>>>>>> 34ff4aeb96c913553fb462843e79aa941aaad3de
+<<<<<<< HEAD
+=======
+hello like
+hello wxx
+hello xinxin
+>>>>>>> ec45f12dd779418c37bb2e953cbdef7accf3f4dd
